@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>pensjon-pdf-generator</artifactId>
+    <artifactId>pensjon-ktor-template</artifactId>
     <groupId>no.nav</groupId>
     <version>1-SNAPSHOT</version>
-    <name>Pensjon PDF Generator</name>
+    <name>Pensjon ktor template</name>
 
     <properties>
         <kotlin.version>1.4.21</kotlin.version>
