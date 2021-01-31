@@ -9,6 +9,7 @@
     <name>Pensjon ktor template</name>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kotlin.version>1.4.21</kotlin.version>
         <ktor.version>1.5.1</ktor.version>
         <serialization.version>1.0.1</serialization.version>
